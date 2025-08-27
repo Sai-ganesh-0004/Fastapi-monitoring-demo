@@ -103,5 +103,3 @@ Application log file written by the FastAPI app and tailed by Promtail.
 - [Loki](https://grafana.com/oss/loki/)
 - [Tempo](https://grafana.com/oss/tempo/)
 
-## License
-MIT License
